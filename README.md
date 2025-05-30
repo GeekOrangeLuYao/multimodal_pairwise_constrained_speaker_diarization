@@ -1,0 +1,2 @@
+# multimodal_pairwise_constrained_speaker_diarization
+MultiModal Pairwise Constrained Speaker Diarization System
